@@ -22,3 +22,4 @@ This is a sample Node.js web app used to demonstrate **CI/CD automation using Gi
 ```bash
 npm install
 node index.js
+The app will start at http://localhost:5000
